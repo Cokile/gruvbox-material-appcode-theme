@@ -1,18 +1,18 @@
 <scheme name="Gruvbox Material Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-11-29T13:08:01</property>
+    <property name="created">2021-12-03T17:59:11</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2021.2.4.0.0</property>
     <property name="originalScheme">Gruvbox Material Light</property>
-    <property name="modified">2021-12-01T14:18:57</property>
+    <property name="modified">2021-12-03T17:59:23</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="cddb89" />
-    <option name="ANNOTATIONS_COLOR" value="1b4652" />
+    <option name="ADDED_LINES_COLOR" value="dfe1b4" />
+    <option name="ANNOTATIONS_COLOR" value="45707a" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="ActionButton.hoverBackground" value="d1cbb850" />
     <option name="ActionButton.iconTextForeground" value="93a1a1" />
@@ -21,7 +21,7 @@
     <option name="CARET_COLOR" value="654735" />
     <option name="CARET_ROW_COLOR" value="eddeb5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2e5bc" />
-    <option name="DELETED_LINES_COLOR" value="e09a9a" />
+    <option name="DELETED_LINES_COLOR" value="f7d9b9" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="d33682" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="657b83" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="b58900" />
@@ -66,9 +66,9 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="2aa198" />
     <option name="HTML_TAG_TREE_LEVEL4" value="268bd2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d33682" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="cddb89" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="e09a9a" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="e6d5ae" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="dfe1b4" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="f7d9b9" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="dbddbf" />
     <option name="INDENT_GUIDE" value="e2dccc" />
     <option name="INFORMATION_HINT" value="fbf6c9" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="e6d5ae" />
@@ -77,7 +77,7 @@
     <option name="LINE_NUMBERS_COLOR" value="d5c4a1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="654735" />
-    <option name="MODIFIED_LINES_COLOR" value="e6d5ae" />
+    <option name="MODIFIED_LINES_COLOR" value="dbddbf" />
     <option name="MODIFIED_TAB_ICON" value="bebebe" />
     <option name="MT_FILESTATUS_ADDED" value="859900" />
     <option name="MT_FILESTATUS_COPIED" value="859900" />
@@ -138,14 +138,14 @@
     <option name="TAB_UNDERLINE" value="fef6e1" />
     <option name="TAB_UNDERLINE_INACTIVE" value="fef6e1" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="e8f7c9" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="cfcaba" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="6c782e" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="c14a4a" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="feb8ae" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="d3d5b8" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="d7d9ae" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="dfe1b4" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="efd2b3" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="f7d9b9" />
     <option name="VISUAL_INDENT_GUIDE" value="ece6d4" />
     <option name="WHITESPACES" value="93a1a1" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ecd5a7" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="dbddbf" />
   </colors>
   <attributes>
     <option name="A3_SQF_COMMAND">
@@ -283,8 +283,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f8e2cd" />
-        <option name="ERROR_STRIPE_COLOR" value="fdc1b2" />
+        <option name="BACKGROUND" value="dbddbf" />
+        <option name="ERROR_STRIPE_COLOR" value="f7d9b9" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -698,32 +698,28 @@
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="858177" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="6c782e" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="858177" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="b47109" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="f3deaa" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
         <option name="FOREGROUND" value="654735" />
-        <option name="BACKGROUND" value="b47109" />
-        <option name="EFFECT_COLOR" value="b47109" />
+        <option name="BACKGROUND" value="f3deaa" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
       <value>
-        <option name="FOREGROUND" value="a89984" />
-        <option name="BACKGROUND" value="6c782e" />
+        <option name="FOREGROUND" value="654735" />
+        <option name="BACKGROUND" value="f3deaa" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -931,26 +927,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="d28282" />
-        <option name="ERROR_STRIPE_COLOR" value="d28282" />
+        <option name="BACKGROUND" value="f3deaa" />
+        <option name="ERROR_STRIPE_COLOR" value="f3deaa" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="e09a9a" />
-        <option name="ERROR_STRIPE_COLOR" value="e09a9a" />
+        <option name="BACKGROUND" value="f7d9b9" />
+        <option name="ERROR_STRIPE_COLOR" value="f7d9b9" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="cddb87" />
-        <option name="ERROR_STRIPE_COLOR" value="cddb87" />
+        <option name="BACKGROUND" value="dfe1b4" />
+        <option name="ERROR_STRIPE_COLOR" value="dfe1b4" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="e6d5ae" />
-        <option name="ERROR_STRIPE_COLOR" value="e6d5ae" />
+        <option name="BACKGROUND" value="dbddbf" />
+        <option name="ERROR_STRIPE_COLOR" value="dbddbf" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
@@ -1011,8 +1007,8 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fdf6e3" />
-        <option name="BACKGROUND" value="bbd3e2" />
+        <option name="FOREGROUND" value="654735" />
+        <option name="BACKGROUND" value="dbddbf" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -3051,7 +3047,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a89984" />
+        <option name="BACKGROUND" value="dbddbf" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
